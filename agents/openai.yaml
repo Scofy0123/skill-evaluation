@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Evaluation"
+  short_description: "生成单个或多个 Skill / Agent 的证据化评测报告"
+  default_prompt: "使用 $skill-evaluation 评测一个本地 skill，或对比多个候选 skill，并生成结构化评估报告。"
