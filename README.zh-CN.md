@@ -104,6 +104,13 @@ git clone https://github.com/Scofy0123/skill-evaluation.git ~/.agents/skills/ski
 请保留评论，做局部章节更新，不要整篇覆盖。
 ```
 
+## 评测结果报告案例
+
+本仓库 README 提供中英双语版本，以下评测报告案例可直接跳转查看最终报告形态：
+
+- [单一 Skill 评估报告样例：backend-estimation](references/report-examples/单一Skill评估报告样例-backend-estimation.md)
+- [多 Skill 对比评估报告样例：两个开源 PRD](references/report-examples/多Skill对比评估报告样例-两个开源PRD.md)
+
 ## 目录结构
 
 ```text
@@ -129,7 +136,7 @@ references/
 - `feishu-output.md`：飞书文档创建和局部更新规范。
 - `comparative-evaluation.md`：多个候选 skill 的同题对比评测方法。
 - `scenario-design-examples.md`：评测场景体系示例、反例和常见误区。
-- `report-examples/`：成品报告样例，分别覆盖单一 skill 评测和多个 skill 对比评测。
+- `report-examples/`：成品报告样例，分别覆盖[单一 skill 评测](references/report-examples/单一Skill评估报告样例-backend-estimation.md)和[多个 skill 对比评测](references/report-examples/多Skill对比评估报告样例-两个开源PRD.md)。
 
 ## 设计原则
 

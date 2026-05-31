@@ -104,6 +104,13 @@ Use $skill-evaluation to update this Feishu evaluation report.
 Preserve comments and update only the relevant sections instead of replacing the whole document.
 ```
 
+## Example Reports
+
+This README is available in English and Chinese. The following evaluation report examples show the expected final report shape:
+
+- [Single-skill evaluation report example: backend-estimation](references/report-examples/单一Skill评估报告样例-backend-estimation.md)
+- [Multi-skill comparison report example: two open-source PRD skills](references/report-examples/多Skill对比评估报告样例-两个开源PRD.md)
+
 ## Repository Structure
 
 ```text
@@ -129,7 +136,7 @@ references/
 - `feishu-output.md`: Feishu / Lark document creation and partial-update guidance.
 - `comparative-evaluation.md`: Same-task comparison method for multiple candidate skills.
 - `scenario-design-examples.md`: Scenario catalog examples, counterexamples, and common mistakes.
-- `report-examples/`: Finished report examples for single-skill evaluation and multi-skill comparison.
+- `report-examples/`: Finished report examples for [single-skill evaluation](references/report-examples/单一Skill评估报告样例-backend-estimation.md) and [multi-skill comparison](references/report-examples/多Skill对比评估报告样例-两个开源PRD.md).
 
 ## Design Principles
 
